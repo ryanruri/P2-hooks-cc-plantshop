@@ -12,8 +12,8 @@
   "scripts": {
     "start": "react-scripts start",
     "server": "json-server --watch db.json -p 6001",
-    "test": "jest --bail",
-    "build": "react-scripts build"
+    "test": "jest --bail"
+    
   },
   "eslintConfig": {
     "extends": [
@@ -46,5 +46,16 @@
     ],
     "testEnvironment": "jsdom",
     "testPathIgnorePatterns": ["/test_suites"]
+  },
+  "json.schemas": [
+  {
+    "fileMatch": ["/.prettierrc", "/.prettierrc.json"],
+    "url": "https://json.schemastore.org/prettierrc",
+    "disable": true
   }
+]
+
+
+
+  
 }

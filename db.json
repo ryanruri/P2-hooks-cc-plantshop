@@ -1,46 +1,64 @@
 {
   "plants": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
       "price": 15.99
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
       "price": 25.98
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "aloevera",
+      "image": "https://images.pexels.com/photos/1549194/pexels-photo-1549194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 45,
+      "id": 9
+    },
+    {
+      "name": "Flower4",
+      "image": "https://images.pexels.com/photos/133079/pexels-photo-133079.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 23,
+      "id": 10
+    },
+    {
+      "name": "girl",
+      "image": "https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 45,
+      "id": 11
     }
   ]
 }
